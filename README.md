@@ -1,7 +1,7 @@
 # 📊 Dashboard Ejecutivo de Ventas - Superstore (End-to-End)
 
 ## 📝 Resumen del Proyecto
-[cite_start]Desarrollo de una solución integral de **Business Intelligence** para analizar el rendimiento de ventas y rentabilidad de una cadena de retail[cite: 3]. [cite_start]El proyecto abarca desde la ingesta de datos crudos hasta la visualización de KPIs estratégicos[cite: 4].
+Desarrollo de una solución integral de **Business Intelligence** para analizar el rendimiento de ventas y rentabilidad de una cadena de retail[cite: 3]. [cite_start]El proyecto abarca desde la ingesta de datos crudos hasta la visualización de KPIs estratégicos[cite: 4].
 
 ## 🖼️ Visualización del Dashboard
 ![Captura del Dashboard](URL_DE_TU_IMAGEN_AQUI)
