@@ -24,7 +24,7 @@ Este proyecto implementa un **Modelo Estrella (Star Schema)** para optimizar el 
 ## 📂 Estructura del Proyecto
 * **`SQL_Scripts/`**: Creación de tablas, normalización y limpieza.
 * **`Dashboard/`**: Archivo `.pbix` con el reporte interactivo.
-* **`Documentacion/`**: [Descarga aquí la Documentación Técnica en PDF](./Documentacion/Documentación_Tecnica.pdf) con el detalle paso a paso.
+* **`Documentacion/`**: [Descarga aquí la Documentación Técnica en PDF](./Documentacion/Documentación_Técnica.pdf) con el detalle paso a paso.
 
 ## 💡 Insights Clave
 * **Optimización Visual:** Se sustituyó un gráfico redundante de productos por un análisis de **Ventas por Segmento**, permitiendo identificar que el sector *Consumer* representa la mayor parte del volumen de ventas.
