@@ -4,7 +4,7 @@
 Desarrollo de una solución integral de **Business Intelligence** para analizar el rendimiento de ventas y rentabilidad de una cadena de retail. El proyecto abarca desde la ingesta de datos crudos hasta la visualización de KPIs estratégicos, aplicando mejores prácticas de modelado de datos.
 
 ## 🖼️ Visualización del Dashboard
-![Captura del Dashboard](./Dashboard/Captura_Dashboard.png)
+![Captura del Dashboard](./Dashboard/Captura_Del_Dashboard.png)
 *> Nota: Dashboard optimizado para eliminar redundancias visuales y mejorar la profundidad del análisis por segmento.*
 
 ## 🏗️ Arquitectura de Datos y Modelado
