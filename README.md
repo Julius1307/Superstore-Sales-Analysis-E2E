@@ -8,10 +8,11 @@ Desarrollo de una solución integral de **Business Intelligence** para analizar 
 *> Nota: Dashboard optimizado para eliminar redundancias visuales y mejorar la profundidad del análisis por segmento.*
 
 ## 🏗️ Arquitectura de Datos y Modelado
-Este proyecto implementa un **Modelo Estrella (Star Schema)** para optimizar el rendimiento de las consultas y la claridad del análisis:
-* **Normalización SQL:** Transformación de datos planos a tablas de dimensiones y hechos.
-* **Integridad Referencial:** Relaciones de tipo **Uno a Varios (1:*)** entre dimensiones y tablas de hechos.
-* **Tablas de Dimensión:** `Dim_Customer`, `Dim_Product`, `Dim_Location` y una `Dim_Calendario` creada dinámicamente con DAX para análisis temporal.
+Este proyecto implementa un **Modelo Estrella (Star Schema)** optimizado para el rendimiento y la integridad de los datos:
+* **Normalización SQL:** Transformación de datos crudos a tablas de dimensiones y hechos.
+* **Integridad Referencial:** Relaciones de tipo **Uno a Varios (1:*)** con propagación de filtros eficiente.
+* **Estrategia de Dimensiones Temporales:** Uso de una **Dim_Calendario** dinámica para el motor de analítica y una **Dim_Date** técnica para la auditoría y validación de consistencia histórica.
+* **Tablas de Dimensión:** `Dim_Customer`, `Dim_Product`, `Dim_Location`, `Dim_Calendario` y `Dim_Date`.
 
 ## 🛠️ Stack Tecnológico
 * **SQL Server:** Procesos ETL, limpieza y estructuración del esquema estrella.
