@@ -4,7 +4,7 @@
 Desarrollo de una solución integral de **Business Intelligence** para analizar el rendimiento de ventas y rentabilidad de una cadena de retail. El proyecto abarca desde la ingesta de datos crudos hasta la visualización de KPIs estratégicos.
 
 ## 🖼️ Visualización del Dashboard
-![Captura del Dashboard](./Dashboard/Captura_del_dashboar.png)
+![Captura del Dashboard](./Dashboard/Captura_del_dashboard.png)
 
 ## 🛠️ Stack Tecnológico
 * **SQL Server:** Extracción, limpieza y transformación de datos (ETL).
